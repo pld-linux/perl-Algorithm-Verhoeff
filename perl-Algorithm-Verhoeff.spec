@@ -8,7 +8,7 @@ Summary:	Algorithm::Verhoeff - Perl extension for checking and computing Verhoef
 Summary(pl.UTF-8):	Algorithm::Verhoeff - rozszerzenie Perla do przeprowadzania i obliczania testów Verhoeffa
 Name:		perl-Algorithm-Verhoeff
 Version:	0.3
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
